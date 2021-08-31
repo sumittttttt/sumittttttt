@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Redekar <img height="40" src="https://emoji.gg/assets/emoji/6316-gnomehi.gif"></h1>
-<h3 align="center">Machine Leaarning and Data Science Enthusiast</h3>
+<h3 align="center">Machine Learning and Data Science Enthusiast</h3>
 
 - 📚 I'm currently pursuing **Bachelor of Science in Information & Technology** from Mumbai University
 
@@ -56,7 +56,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch" width="80" height="40"/>
   </a>
   <a href="https://streamlit.io/" target="_blank"> 
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="40" height="40"/>
