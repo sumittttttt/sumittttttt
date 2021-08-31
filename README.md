@@ -56,7 +56,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch" width="80" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" alt="pytorch" width="80" height="40"/>
   </a>
   <a href="https://streamlit.io/" target="_blank"> 
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="40" height="40"/>
