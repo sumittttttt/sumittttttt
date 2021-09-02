@@ -74,7 +74,7 @@
 
 <h3>My Github Stats </h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sumittttttt&theme=tokyonight)](https://git.io/streak-stats)
+<p align='center'><img src="http://github-readme-streak-stats.herokuapp.com?user=sumittttttt&theme=onedark">
 
 
 ------
