@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Redekar <img height="40" src="https://emoji.gg/assets/emoji/6316-gnomehi.gif"></h1>
 <h3 align="center">Machine Learning and Data Science Enthusiast</h3>
-![](https://visitor-badge.glitch.me/badge?page_id=sumittttttt.sumittttttt)
+
 
 - 📚 I'm currently pursuing **Bachelor of Science in Information & Technology** from Mumbai University
 
