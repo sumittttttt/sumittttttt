@@ -41,8 +41,8 @@
   <a href="https://jupyter.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
   </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PYCHARM" width="40" height="40"/>
+  <a href="https://scikit-learn.org/stable/index.html" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="PYCHARM" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="80" height="40"/>
