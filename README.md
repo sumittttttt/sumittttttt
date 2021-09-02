@@ -72,6 +72,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumittttttt&theme=react&layout=compact" />
 </p>
 
+<h3>My Github Stats </h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sumittttttt&theme=tokyonight)](https://git.io/streak-stats)
 
