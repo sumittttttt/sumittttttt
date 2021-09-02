@@ -2,6 +2,7 @@
 <h3 align="center">Machine Learning and Data Science Enthusiast</h3>
 
 
+
 - 📚 I'm currently pursuing **Bachelor of Science in Information & Technology** from Mumbai University
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
@@ -70,5 +71,9 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=sumittttttt&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumittttttt&theme=react&layout=compact" />
 </p>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sumittttttt&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ------
