@@ -29,37 +29,39 @@
   </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
+  </a>
+ </p>
+ <p align='center'>
   <a href="https://numpy.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/> 
   </a>
-</p>
-<p align="center"> 
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
   </a> 
-  <a href="https://jupyter.org/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/stable/index.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="PYCHARM" width="40" height="40"/>
-  </a>
   <a href="https://pandas.pydata.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="80" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
   </a>
 </p>
-<p align="center">
+<p align='center'>
   <a href="https://matplotlib.org/stable/index.html" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
   </a>
+  <a href="https://jupyter.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
+  </a>
+  <a href="https://streamlit.io/" target="_blank"> 
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="40" height="40"/>
+  </a>
+</p>
+<p align="center">  
   <a href="https://www.tensorflow.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" alt="pytorch" width="80" height="40"/>
   </a>
-  <a href="https://streamlit.io/" target="_blank"> 
-    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="80" height="40"/>
+  <a href="https://scikit-learn.org/stable/index.html" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="PYCHARM" width="40" height="40"/>
   </a>
 </p>
 
