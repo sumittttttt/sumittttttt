@@ -76,7 +76,9 @@
 
 <p align='center'><img src="http://github-readme-streak-stats.herokuapp.com?user=sumittttttt&theme=onedark">
   
-![](https://komarev.com/ghpvc/sumittttttt&color=green)
+<p>![Visitor Count](https://profile-counter.glitch.me/sumittttttt/count.svg)
+
+  
 
 
 
