@@ -75,8 +75,7 @@
 <h3>My Github Stats </h3>
 
 <p align='center'><img src="http://github-readme-streak-stats.herokuapp.com?user=sumittttttt&theme=onedark">
-  
-<p>curl https://profile-counter.glitch.me/{sumittttttt}/count.svg
+
 
 
   
