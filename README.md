@@ -76,7 +76,8 @@
 
 <p align='center'><img src="http://github-readme-streak-stats.herokuapp.com?user=sumittttttt&theme=onedark">
   
-<p>![Visitor Count](https://profile-counter.glitch.me/sumittttttt/count.svg)
+<p>curl https://profile-counter.glitch.me/sumittttttt/count.svg
+
 
   
 
