@@ -76,7 +76,7 @@
 
 <p align='center'><img src="http://github-readme-streak-stats.herokuapp.com?user=sumittttttt&theme=onedark">
   
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/sumittttttt&color=green)
 
 
 
