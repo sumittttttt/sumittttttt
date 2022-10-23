@@ -3,9 +3,11 @@
 
 
 
-- 📚 I'm currently pursuing **Bachelor of Science in Information & Technology** from Mumbai University
+- 📚 I completed my degree in **Bachelor of Science in Information & Technology** from Mumbai University
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 👨‍💼 I'm currently working at US based MNC **Here Technology** as a **Data Specialist**
+
+- 🌱 I’m intermediate player in **Machine Learning** and currently exploring **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
